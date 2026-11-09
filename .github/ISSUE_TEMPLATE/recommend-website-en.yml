@@ -1,0 +1,81 @@
+{
+  "name": "Recommend a website (English)",
+  "description": "Suggest a useful or interesting website or tool for VUVI.",
+  "title": "[Recommendation] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Thanks for sharing! The maintainer will review your suggestion before adding it to VUVI."
+      }
+    },
+    {
+      "type": "input",
+      "id": "website-name",
+      "attributes": {
+        "label": "Website name",
+        "placeholder": "Name of the website or tool"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "website-url",
+      "attributes": {
+        "label": "Website URL",
+        "placeholder": "https://example.com",
+        "description": "Please provide the full URL to the website."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "reason",
+      "attributes": {
+        "label": "Description and reason for recommending",
+        "placeholder": "What does it do, who is it for, and why do you recommend it?"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "category",
+      "attributes": {
+        "label": "Suggested category",
+        "options": [
+          "Astronomy",
+          "Research & reading",
+          "Code & data",
+          "AI tools",
+          "Learning & languages",
+          "Design & creation",
+          "Productivity",
+          "Games & media",
+          "Maps & everyday life",
+          "People & campus",
+          "Not sure / Other"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "credit",
+      "attributes": {
+        "label": "Contributor credit (optional)",
+        "description": "If you would like to be credited in the acknowledgements after inclusion, enter your preferred display name. Leave blank if you do not want a credit."
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "推荐网站（中文）",
+  "description": "向 VUVI 推荐实用、有趣的网站或工具。",
+  "title": "[推荐] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "感谢分享！请填写网站信息，作者会审核后决定是否收录。"
+      }
+    },
+    {
+      "type": "input",
+      "id": "website-name",
+      "attributes": {
+        "label": "网站名称",
+        "placeholder": "你想推荐的网站或工具"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "website-url",
+      "attributes": {
+        "label": "网站网址",
+        "placeholder": "https://example.com",
+        "description": "请填写可直接访问的完整网址。"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "reason",
+      "attributes": {
+        "label": "简介与推荐理由",
+        "placeholder": "它有什么用？适合谁？你为什么推荐它？"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "category",
+      "attributes": {
+        "label": "建议分类",
+        "options": [
+          "天文与宇宙",
+          "论文与阅读",
+          "编程与数据",
+          "AI 与智能工具",
+          "学习与语言",
+          "设计与创作",
+          "效率与工具",
+          "游戏与影音",
+          "地图与生活",
+          "学者与校园",
+          "不确定 / 其他"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "credit",
+      "attributes": {
+        "label": "推荐者署名（可选）",
+        "description": "如果希望收录后在致谢中署名，请填写你希望显示的名字；不需要署名可留空。"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 (() => {
 'use strict';
 const en={
+ '推荐网站':'Recommend a site','发现了好网站？':'Found something good?','通过 GitHub 提交，需要登录':'Submit on GitHub (sign-in required)','分享你的发现，由作者审核收录。通过 GitHub 提交，需要登录。':'Share your discovery for review. Submit on GitHub; sign-in required.',
+
  '本网站由 ChatGPT 协助搭建，感谢其在网站设计与开发中的支持。':'This website was built with assistance from ChatGPT. Thank you for supporting its design and development.',
  "致谢":"Acknowledgements",
  "感谢周泰对该项目的巨大贡献！":"Special thanks to 周泰 for his tremendous contribution to this project!",
@@ -48,6 +50,7 @@ const exampleButtons=[...document.querySelectorAll('[data-query]')];
 function translate(value){return language==='en'?(en[value]||value):value;}
 function apply(){
  document.documentElement.lang=language==='en'?'en':'zh-CN';
+ for(const link of document.querySelectorAll('[data-recommend]'))link.href='https://github.com/VUVIWeb/VUVIWeb.github.io/issues/new?template='+ (language==='en'?'recommend-website-en.yml':'recommend-website.yml');
  document.title=language==='en'?'VUVI · Good things have gravity':'VUVI · 揽尽天下妙网';
  for(const {node,original} of staticText)node.textContent=language==='en'?original.replace(original.trim(),en[original.trim()]):original;
  for(const {el,attr,value} of staticAttributes)el.setAttribute(attr,translate(value));

@@ -37,6 +37,10 @@ python3 -m http.server 4173 --directory dist
 
 参考 [GitHub Pages 自定义工作流文档](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。部署结果可在仓库 Actions 与 Settings → Pages 中查看。
 
+## 推荐网站
+
+首页及侧栏的「推荐网站」按钮按界面语言打开中文或英文 GitHub Issue 表单。提交者需要登录 GitHub，作者审核后手动收录，署名为可选项。表单位于 `.github/ISSUE_TEMPLATE/`。
+
 ## 维护
 
 - `scripts/build.py`：清单解析、URL 归一化、合并、分类、用途关键词和构建。
