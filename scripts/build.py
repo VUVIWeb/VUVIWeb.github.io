@@ -124,6 +124,14 @@ def build():
   src=ROOT/name; dst=dist/name
   if src.is_dir(): shutil.copytree(src,dst,dirs_exist_ok=True)
   else: shutil.copy2(src,dst)
+ # Content versions prevent cached scripts/styles from mixing with new HTML.
+ html=(dist/'index.html').read_text()
+ def version_asset(match):
+  attr,path=match.groups()
+  version=hashlib.sha256((dist/path).read_bytes()).hexdigest()[:12]
+  return f'{attr}="{path}?v={version}"'
+ html=re.sub(r'(src|href)="(assets/[^"?]+)"',version_asset,html)
+ (dist/'index.html').write_text(html)
  # Remove obsolete outputs from earlier builds; archived lists are not published.
  for name in ['VUVI_Chinese.md','VUVI_English.md']: (dist/name).unlink(missing_ok=True)
  (dist/'.nojekyll').touch()

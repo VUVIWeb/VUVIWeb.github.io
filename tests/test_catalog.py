@@ -41,6 +41,13 @@ class CatalogTest(unittest.TestCase):
    actual=sorted((r for r in resources if r['category']==category and r['categoryTopOrder'] is not None),key=lambda r:r['categoryTopOrder'])
    self.assertEqual([b.canonical(r['url']) for r in actual],[b.canonical(url) for url in urls])
   self.assertEqual(next(r['category'] for r in resources if r['url']=='https://pokebonk.com/'),'play')
+ def test_published_asset_versions_match_contents(self):
+  import hashlib
+  html=(b.ROOT/'dist/index.html').read_text()
+  assets=re.findall(r'(?:src|href)="(assets/[^"?]+)\?v=([a-f0-9]+)"',html)
+  self.assertEqual(len(assets),5)
+  for path,version in assets:
+   self.assertEqual(version,hashlib.sha256((b.ROOT/'dist'/path).read_bytes()).hexdigest()[:12])
  def test_acknowledgements_preserved(self):
   from html import escape
   source=(b.ROOT/'data/sources/VUVI_Chinese.md').read_text()
