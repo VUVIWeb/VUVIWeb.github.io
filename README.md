@@ -2,7 +2,7 @@
 
 以好奇心为引力，收集实用、有趣的网站与工具。黑洞主题，支持中英文切换、分类检索、用途搜索与本地收藏。
 
-**[进入网站 / Visit the website](https://panzhiwei1997.github.io/Very_Useful_Very_Interesting/)**
+**[进入网站 / Visit the website](https://vuviweb.github.io/)**
 
 - 首页随机探索全部资源。
 - 各分类的「近日推荐」由作者手动排序，其余资源随机展示。

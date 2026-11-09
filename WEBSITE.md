@@ -30,7 +30,7 @@ python3 -m http.server 4173 --directory dist
 
 ## GitHub Pages 发布
 
-1. 将网站文件加入原仓库 `panzhiwei1997/Very_Useful_Very_Interesting` 的 `main` 分支。
+1. 网站源码位于组织仓库 `VUVIWeb/VUVIWeb.github.io` 的 `main` 分支，正式网址为 https://vuviweb.github.io/。
 2. 在仓库 Settings → Pages → Build and deployment 中选择 **GitHub Actions**。
 3. `.github/workflows/pages.yml` 会运行数据校验、生成 `dist/` 并发布。
 4. 后续修改内部清单或网站代码并推送到 `main`，网站会自动重建。
