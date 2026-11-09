@@ -41,6 +41,13 @@ class CatalogTest(unittest.TestCase):
    actual=sorted((r for r in resources if r['category']==category and r['categoryTopOrder'] is not None),key=lambda r:r['categoryTopOrder'])
    self.assertEqual([b.canonical(r['url']) for r in actual],[b.canonical(url) for url in urls])
   self.assertEqual(next(r['category'] for r in resources if r['url']=='https://pokebonk.com/'),'play')
+ def test_acknowledgements_preserved(self):
+  from html import escape
+  source=(b.ROOT/'data/sources/VUVI_Chinese.md').read_text()
+  paragraphs=[p.strip() for p in source.split('## 致谢\n',1)[1].split('## 未完待续',1)[0].split('\n\n') if p.strip()]
+  html=(b.ROOT/'dist/index.html').read_text()
+  for paragraph in paragraphs:
+   self.assertIn('<p>'+escape(paragraph)+'</p>',html)
  def test_archived_sources_are_not_published(self):
   for name in ['VUVI_Chinese.md','VUVI_English.md']:
    self.assertTrue((b.ROOT/'data/sources'/name).is_file())

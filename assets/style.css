@@ -24,3 +24,5 @@
 footer .author-link{color:#b7a38b}footer .author-link:hover{color:#e2ba88;text-decoration:underline}
 
 .resource-group-title{font-size:14px;font-weight:500;letter-spacing:1px;margin:0 0 16px;color:#c8b192}.category-picks{padding-bottom:25px;margin-bottom:25px;border-bottom:1px solid var(--line)}.category-picks .card{border-color:#594733}
+
+.acknowledgements{padding:30px 0 12px;border-top:1px solid var(--line);scroll-margin-top:24px}.acknowledgements h2{font-family:var(--serif);font-size:22px;font-weight:500;color:#e0dcd5;margin:0 0 20px}.acknowledgements p{font-size:13px;line-height:2;color:#a5a5af;margin:0 0 15px;max-width:960px}.acknowledgements p:last-child{color:#c5af94}@media(max-width:440px){.acknowledgements{padding-top:24px}.acknowledgements h2{font-size:20px}.acknowledgements p{font-size:12px}}

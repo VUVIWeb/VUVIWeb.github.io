@@ -1,6 +1,13 @@
 (() => {
 'use strict';
 const en={
+ "致谢":"Acknowledgements",
+ "感谢周泰对该项目的巨大贡献！":"Special thanks to 周泰 for his tremendous contribution to this project!",
+ "感谢LKs,余捻坤,徐福祥，傅煜铭分享的大量网站！":"Thank you to LKs, 余捻坤, 徐福祥 and 傅煜铭 for sharing so many websites!",
+ "感谢庄明阳，王彧辰，林小靖，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是的分享！":"Thank you to 庄明阳，王彧辰，林小靖，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是 for sharing your discoveries!",
+ "感谢以上所有网站的作者！":"Thank you to the creators of all the websites collected here!",
+ "感谢妻子辛依倩的支持！":"Thank you to my wife, 辛依倩, for her support!",
+
  '跳到资源列表':'Skip to resources','VUVI 首页':'VUVI home','好奇心，自有引力。':'Curiosity has gravity.',
  '你的引力空间':'YOUR SPACE','资源导航':'Resource navigation','全部探索':'Explore all','我的收藏':'My collection','按主题发现':'EXPLORE BY TOPIC','主题分类':'Topics',
  '好奇心，是一种引力。':'Curiosity has gravity.','让散落在互联网的好工具，':'Bring the best of the internet','汇入你的知识宇宙。':'into your own universe.','在 GitHub 一起完善':'Contribute on GitHub',
