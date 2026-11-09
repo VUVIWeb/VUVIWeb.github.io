@@ -1,6 +1,7 @@
 (() => {
 'use strict';
 const en={
+ '本网站由 ChatGPT 协助搭建，感谢其在网站设计与开发中的支持。':'This website was built with assistance from ChatGPT. Thank you for supporting its design and development.',
  "致谢":"Acknowledgements",
  "感谢周泰对该项目的巨大贡献！":"Special thanks to 周泰 for his tremendous contribution to this project!",
  "感谢LKs,余捻坤,徐福祥，傅煜铭分享的大量网站！":"Thank you to LKs, 余捻坤, 徐福祥 and 傅煜铭 for sharing so many websites!",
