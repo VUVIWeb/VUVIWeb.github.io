@@ -255,6 +255,7 @@
     * [CodingFont](https://www.codingfont.com/):帮你选出喜欢的编程字体。
 
   * ### 可视化
+    * [GSAP](https://gsap.com/): 用 JavaScript 制作流畅的网页动画、滚动效果与交互。
     * [花火](https://hanabi.data-viz.cn/index?lang=zh-CN)：中文数据可视化网站，可免费下载为gif和MP4
     * [Flourish](https://flourish.studio/)：国家数据可视化网站，但不可免费下载为gif和MP4  
     * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
@@ -433,6 +434,8 @@
 
      
 * ## 图片
+  * [Lemo-Opuscar](https://lemomo-ai.github.io/lemo-opuscar/): 浏览代码生成的风格短片，获取可复用的 AI 视频创作提示词。
+  * [Awwwards](https://www.awwwards.com/): 浏览获奖网站与创意案例，寻找网页设计和交互灵感。
   * [在线抠图](https://www.remove.bg/zh/upload)：在线抠图
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
   * [Pexels](https://www.pexels.com/zh-cn/): 这也是一个高质量的图片网站，资源非常丰富，免费的，无版权的。这个网站除了可以下载图片，还可以下载视频。
@@ -549,7 +552,7 @@
 
 感谢LKs,余捻坤,徐福祥，傅煜铭，林小靖分享的大量网站！
 
-感谢庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是，费勤月，wenliabc2007的分享！
+感谢庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，Jason，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是，费勤月，wenliabc2007的分享！
 
 感谢以上所有网站的作者！
 

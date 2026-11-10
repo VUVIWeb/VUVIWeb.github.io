@@ -35,6 +35,16 @@ class CatalogTest(unittest.TestCase):
   r=next(r for r in self.data['resources'] if r['name']=='中国色')
   self.assertIn('中国传统',r['descriptions']['zh'])
   self.assertEqual(r['english']['name'],'Traditional Chinese Colors')
+ def test_every_resource_has_bilingual_description(self):
+  for r in self.data['resources']:
+   with self.subTest(resource=r['name']):
+    self.assertTrue(r['description'].strip())
+    self.assertTrue(r['english']['description'].strip())
+    self.assertNotIn('访问网站，探索更多',r['description'])
+  # Editorial summaries must not be presented as text from an archived source.
+  gaia=next(r for r in self.data['resources'] if r['name']=='GAIA')
+  self.assertIn('视差',gaia['description'])
+  self.assertFalse(any(gaia['descriptions'].values()))
  def test_category_recommendations(self):
   resources=self.data['resources']
   for category,urls in b.CATEGORY_TOP.items():

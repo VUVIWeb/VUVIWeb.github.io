@@ -818,5 +818,17 @@
   "ee8d5464f7ce": {
     "name": "MingyuLi Astronomy Tools",
     "description": "Outstanding astronomy tools developed by MingyuLi."
+  },
+  "06c90a8a1dcf": {
+    "name": "GSAP",
+    "description": "Create smooth web animations, scroll effects and interactions with JavaScript."
+  },
+  "c87f1f954e0d": {
+    "name": "Awwwards",
+    "description": "Discover award-winning websites and creative examples for web design and interaction inspiration."
+  },
+  "27aeb543d04b": {
+    "name": "Lemo-Opuscar",
+    "description": "Explore code-generated short films and reusable prompts for AI-assisted video creation."
   }
 }

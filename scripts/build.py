@@ -111,11 +111,15 @@ def build():
    if needle in t: e['tags']+=hints
   e['tags']=list(dict.fromkeys(e['tags']))
  translations=json.loads((ROOT/'data/english.json').read_text())
+ summaries=json.loads((ROOT/'data/summaries.json').read_text())
  for e in merged.values():
+  # Fill missing descriptions without rewriting archived source text.
+  summary=summaries.get(e['id'],{}) if not e['description'].strip() else {}
+  if summary: e['description']=summary['zh']
   translated=translations.get(e['id'],{})
   english_name=next((a for a in e['aliases'] if not re.search('[\u4e00-\u9fff]',a)),e['name'])
   english_desc=e['descriptions'].get('en') or e['description']
-  e['english']={'name':translated.get('name',english_name),'description':translated.get('description',english_desc),'supplemented':bool(translated)}
+  e['english']={'name':translated.get('name',english_name),'description':summary.get('en') or translated.get('description') or english_desc,'supplemented':bool(translated or summary)}
  entries=list(merged.values())
  payload={'categories':[dict(zip(['id','name','english','icon'],x)) for x in CATEGORIES],'resources':entries,'meta':{'sourceEntries':len(rows),'uniqueResources':len(entries),'chineseEntries':len(parse('Chinese')),'englishEntries':len(parse('English')),'englishOnly':sum(all(s['language']=='en' for s in e['sources']) for e in entries)}}
  (ROOT/'assets/catalog.js').write_text('window.VUVI_CATALOG = '+json.dumps(payload,ensure_ascii=False,separators=(',',':'))+';\n')

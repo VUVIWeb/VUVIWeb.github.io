@@ -7,7 +7,7 @@ const en={
  "致谢":"Acknowledgements",
  "感谢周泰对该项目的巨大贡献！":"Special thanks to 周泰 for his tremendous contribution to this project!",
  "感谢LKs,余捻坤,徐福祥，傅煜铭，林小靖分享的大量网站！":"Thank you to LKs, 余捻坤, 徐福祥, 傅煜铭 and 林小靖 for sharing so many websites!",
- "感谢庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是，费勤月，wenliabc2007的分享！":"Thank you to 庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是, 费勤月, and wenliabc2007 for sharing your discoveries!",
+ "感谢庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，Jason，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是，费勤月，wenliabc2007的分享！":"Thank you to 庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，Jason，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是, 费勤月, and wenliabc2007 for sharing your discoveries!",
  "感谢以上所有网站的作者！":"Thank you to the creators of all the websites collected here!",
  "感谢妻子辛依倩的支持！":"Thank you to my wife, 辛依倩, for her support!",
 

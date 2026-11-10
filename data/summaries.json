@@ -1,0 +1,518 @@
+{
+  "4c2cf0c95eaf": {
+    "zh": "汇总中国空间站巡天望远镜 CSST 的科学目标与相关资料。",
+    "en": "An overview of CSST science goals and related resources."
+  },
+  "2842b2da0352": {
+    "zh": "查阅物理与天文学常用常数的 PDF 速查表。",
+    "en": "A PDF reference sheet of common physical and astronomical constants."
+  },
+  "2e69590e1984": {
+    "zh": "查阅天文学与天体物理学主题的百科参考资料。",
+    "en": "An encyclopedia reference for astronomy and astrophysics topics."
+  },
+  "4d79776b3ee6": {
+    "zh": "按主题查阅空间天文学与天体物理的公式、常数和数据。",
+    "en": "Look up formulas, constants and data in a space astronomy and astrophysics handbook."
+  },
+  "8e7cd2823687": {
+    "zh": "汇集 NASA 哈勃奖学金计划（NHFP）的申请参考资源。",
+    "en": "A collection of application resources for the NASA Hubble Fellowship Program."
+  },
+  "346699571d53": {
+    "zh": "浏览和分享天文学研究预印本。",
+    "en": "Browse and share astronomy research preprints."
+  },
+  "e431ee483675": {
+    "zh": "提供天文巡天数据的查询与分析工具。",
+    "en": "Tools for querying and analyzing astronomical survey data."
+  },
+  "47fe547288b6": {
+    "zh": "在行星地图上浏览火星、冥王星的地表地名与陨石坑。",
+    "en": "Explore surface features and craters on maps of Mars and Pluto."
+  },
+  "7187aafdd10e": {
+    "zh": "汇集天体光谱能量分布（SED）拟合的工具与参考链接。",
+    "en": "A directory of tools and references for fitting spectral energy distributions."
+  },
+  "6dd05834e43a": {
+    "zh": "按名称或坐标查询 SDSS DR16 天体的图像、测光和光谱。",
+    "en": "Look up SDSS DR16 images, photometry and spectra by object name or coordinates."
+  },
+  "421c6303f56d": {
+    "zh": "在线提交天文星表查询任务，并保存和下载查询结果。",
+    "en": "Run queries on astronomical catalogs and save or download the results."
+  },
+  "acc6bd5b4add": {
+    "zh": "根据观测时间与地点计算恒星的高度角和方位角。",
+    "en": "Calculate a star's altitude and azimuth for a given time and location."
+  },
+  "ab630e2796c9": {
+    "zh": "汇集用于计算宇宙年龄、距离和红移关系的计算器。",
+    "en": "A collection of calculators for cosmic ages, distances and redshifts."
+  },
+  "8a208ae65981": {
+    "zh": "用粒子模拟直观展示两个星系的引力相互作用。",
+    "en": "Visualize gravitational interactions between two galaxies with a particle simulation."
+  },
+  "694a734c1a58": {
+    "zh": "模拟不同引力波探测器对天体源的探测能力。",
+    "en": "Explore gravitational-wave source detectability with different detectors."
+  },
+  "599ede716989": {
+    "zh": "以三维地球视图展示卫星与太空碎片的轨道。",
+    "en": "Visualize satellite and space-debris orbits around a 3D Earth."
+  },
+  "a77413cd2a75": {
+    "zh": "汇集用于天文问答、光谱分析等任务的 AI 模型。",
+    "en": "A hub of AI models for astronomy questions, spectral analysis and related tasks."
+  },
+  "af77cb81c7f8": {
+    "zh": "系统介绍星系形态分类及其物理意义。",
+    "en": "A review of galaxy morphology, classification and physical interpretation."
+  },
+  "353c4cf20d02": {
+    "zh": "指导科研人员准备天文研究成果的新闻稿。",
+    "en": "Guidelines for scientists preparing press releases about astronomy research."
+  },
+  "86b55d17a5bd": {
+    "zh": "介绍天文观测中的信号、噪声与信噪比计算。",
+    "en": "An introduction to signal, noise and signal-to-noise calculations in astronomy."
+  },
+  "68871291cef3": {
+    "zh": "讲解光学天文观测中 CCD 测光的噪声来源与信噪比。",
+    "en": "Lecture notes on CCD photometry, noise sources and signal-to-noise in optical astronomy."
+  },
+  "f50e93d6ffa3": {
+    "zh": "了解中国空间站巡天望远镜 CSST 项目。",
+    "en": "Explore the Chinese Space Station Telescope project."
+  },
+  "666f3dff5cc5": {
+    "zh": "了解暗能量光谱巡天 DESI 的科学目标、仪器和研究进展。",
+    "en": "Explore DESI science goals, instrumentation and dark-energy research."
+  },
+  "81e0fba8cd48": {
+    "zh": "获取 JWST 观测提案、仪器使用与科学数据分析资料。",
+    "en": "Resources for JWST proposals, instruments and scientific data analysis."
+  },
+  "c802e1ea53d9": {
+    "zh": "查看 JWST CEERS 巡天的项目介绍、论文与公开数据。",
+    "en": "Explore the JWST CEERS survey, its publications and public data."
+  },
+  "e3ef260b39b1": {
+    "zh": "了解研究早期类星体环境的 ASPIRE 巡天及其数据成果。",
+    "en": "Explore the ASPIRE survey of early quasar environments and its data products."
+  },
+  "226c7dd5592b": {
+    "zh": "查看 LIGO 引力波探测成果、科学介绍与数据发布入口。",
+    "en": "Explore LIGO gravitational-wave discoveries, science resources and data releases."
+  },
+  "d94e0923a463": {
+    "zh": "了解平方公里阵列射电望远镜的科学目标与建设进展。",
+    "en": "Learn about the SKA radio telescope arrays, their science goals and development."
+  },
+  "51d3b2283685": {
+    "zh": "了解三十米望远镜 TMT 的科学目标与项目进展。",
+    "en": "Learn about the Thirty Meter Telescope and its science goals."
+  },
+  "d5f80897d959": {
+    "zh": "查找 HETDEX 暗能量巡天的数据访问方式与研究成果。",
+    "en": "Find data access information and scientific results from the HETDEX survey."
+  },
+  "b27c4400c24c": {
+    "zh": "按天体名称或坐标查看和下载 2MASS 近红外图像。",
+    "en": "View and retrieve 2MASS near-infrared images by object name or coordinates."
+  },
+  "a436f507ae73": {
+    "zh": "查询和提取 UKIDSS 近红外巡天图像。",
+    "en": "Search and retrieve images from the UKIDSS near-infrared survey."
+  },
+  "364cfd357696": {
+    "zh": "检索 WISE 红外巡天的天体数据与图像。",
+    "en": "Search WISE infrared survey data and images."
+  },
+  "cd9b5e38292e": {
+    "zh": "检索 Gaia 星表中的天体位置、视差和自行等数据。",
+    "en": "Query Gaia catalog data including positions, parallaxes and proper motions."
+  },
+  "dd19ebf55cfc": {
+    "zh": "潘志伟的个人主页，介绍科研工作与个人项目。",
+    "en": "Zhiwei Pan's personal website featuring his research and projects."
+  },
+  "da405a8ca7c0": {
+    "zh": "江林华的学术主页，提供科研信息与相关资料入口。",
+    "en": "Linhua Jiang's academic homepage with research information and related resources."
+  },
+  "d3aa28b77810": {
+    "zh": "王飞格的学术主页，介绍个人科研工作。",
+    "en": "Feige Wang's academic homepage presenting his research."
+  },
+  "8d10b5fc21c1": {
+    "zh": "傅煜铭的个人主页，介绍个人背景与科研工作。",
+    "en": "Yuming Fu's personal website introducing his background and research."
+  },
+  "e2ac64ede6b5": {
+    "zh": "林小靖的个人主页，介绍科研工作与个人项目。",
+    "en": "Xiaojing Lin's personal website featuring research and projects."
+  },
+  "d67898b07ee5": {
+    "zh": "邵立晶的个人介绍与学术主页。",
+    "en": "Lijing Shao's personal introduction and academic homepage."
+  },
+  "6fdafd5f2ce9": {
+    "zh": "Masafusa Onoue 的学术主页，介绍科研工作与成果。",
+    "en": "Masafusa Onoue's academic homepage featuring research and publications."
+  },
+  "9e1b32425621": {
+    "zh": "Yue Shen 的学术主页，介绍类星体等天文研究。",
+    "en": "Yue Shen's academic homepage featuring quasar and related astronomy research."
+  },
+  "4d1749320cbc": {
+    "zh": "黄崧的个人学术主页，介绍科研工作与相关资源。",
+    "en": "Song Huang's academic website with research information and related resources."
+  },
+  "5736d46badc4": {
+    "zh": "王凯整理的软件、书籍与相关资源入口。",
+    "en": "Kai Wang's collection of software, books and related resources."
+  },
+  "ce334895fbbd": {
+    "zh": "庄明阳的个人学术主页，介绍科研工作与项目。",
+    "en": "Ming-Yang Zhuang's academic homepage featuring research and projects."
+  },
+  "01f89db14ce2": {
+    "zh": "查看北大科维理引力研究组的组会、报告与讨论资料。",
+    "en": "Browse group meetings, seminars and discussion material from KIAA's gravity group."
+  },
+  "b26d09022692": {
+    "zh": "浏览潘志伟在 GitHub 上分享的代码与项目。",
+    "en": "Explore code and projects shared by Zhiwei Pan on GitHub."
+  },
+  "cfdff9e26c35": {
+    "zh": "浏览吴晋在 GitHub 上分享的代码与工具。",
+    "en": "Explore code and tools shared by Jin Wu on GitHub."
+  },
+  "652aa38c5606": {
+    "zh": "查看 Chang Liu 在 GitHub 上整理的笔记。",
+    "en": "Read Chang Liu's notes collected on GitHub."
+  },
+  "49a19ba132f3": {
+    "zh": "浏览林小靖在 GitHub 上分享的代码与项目。",
+    "en": "Explore code and projects shared by Xiaojing Lin on GitHub."
+  },
+  "3b3d746a14e8": {
+    "zh": "浏览庄明阳在 GitHub 上分享的代码与项目。",
+    "en": "Explore code and projects shared by Ming-Yang Zhuang on GitHub."
+  },
+  "4a8054f31906": {
+    "zh": "通过示例对照学习 Python 的百分号与 format 字符串格式化。",
+    "en": "Compare Python percent-style and format-style string formatting through examples."
+  },
+  "95ae28a3688b": {
+    "zh": "速查 Python 绘图常用的线型、标记和颜色写法。",
+    "en": "A quick reference for line styles, markers and colors in Python plotting."
+  },
+  "40b50ae358e0": {
+    "zh": "查阅 Python 绘图可用的色图及其效果。",
+    "en": "Browse colormap options and their appearance for Python plotting."
+  },
+  "96c8ad8baad8": {
+    "zh": "学习天文数据处理与 Python 科研应用的培训资料和录像。",
+    "en": "Training material and recordings on astronomical data and scientific Python."
+  },
+  "792ad94fad2d": {
+    "zh": "通过中文系列教程学习用 Python 和 Pygame 开发游戏。",
+    "en": "A Chinese tutorial series on developing games with Python and Pygame."
+  },
+  "02e10931dc7f": {
+    "zh": "通过实操教程学习使用 CIGALE 进行光谱能量分布拟合。",
+    "en": "A hands-on tutorial for spectral energy distribution fitting with CIGALE."
+  },
+  "200ad4930219": {
+    "zh": "使用多维数组和数值运算工具进行 Python 科学计算。",
+    "en": "Perform scientific computing in Python with multidimensional arrays and numerical routines."
+  },
+  "034ca6abf348": {
+    "zh": "用 Python 绘制静态、动态和交互式科研图表。",
+    "en": "Create static, animated and interactive scientific plots in Python."
+  },
+  "9e0cef03c43c": {
+    "zh": "为 Python 天文计算提供单位、坐标、时间和数据处理工具。",
+    "en": "Python tools for astronomical units, coordinates, time and data processing."
+  },
+  "c9e7eec473f7": {
+    "zh": "使用可并行的蒙特卡洛采样工具进行贝叶斯推断。",
+    "en": "Run Bayesian inference with parallel-capable Monte Carlo sampling tools."
+  },
+  "553b2107e548": {
+    "zh": "通过 AI 对话辅助问答、写作、编程与资料整理。",
+    "en": "An AI assistant for questions, writing, coding and organizing information."
+  },
+  "bb19e8e506b8": {
+    "zh": "按主题查阅 Danbooru 图像标签，辅助描述画面元素。",
+    "en": "Browse Danbooru image tags by topic to describe visual elements."
+  },
+  "f5aa1408d036": {
+    "zh": "按编程语言和技术主题查找免费中文编程书籍。",
+    "en": "Find free Chinese programming books organized by language and topic."
+  },
+  "b3041b38df9b": {
+    "zh": "通过 uCore 操作系统实验学习内核的设计与实现。",
+    "en": "Learn operating-system kernel design and implementation through uCore labs."
+  },
+  "842c43d79256": {
+    "zh": "汇集清华大学计算机系课程的学习资料。",
+    "en": "A collection of learning resources for Tsinghua computer science courses."
+  },
+  "fe2e7d3f1bc5": {
+    "zh": "按分类浏览 GitHub 上的热门中文项目。",
+    "en": "Browse popular Chinese-language GitHub projects by category."
+  },
+  "a40b11d7b28d": {
+    "zh": "阅读常见算法的 C++ 实现，用于学习与练习。",
+    "en": "Study and practice algorithms through their C++ implementations."
+  },
+  "5b2560d344b9": {
+    "zh": "系统学习 Vim 的编辑操作、配置与使用技巧。",
+    "en": "A guide to Vim editing, configuration and practical techniques."
+  },
+  "089ab0c2dd8a": {
+    "zh": "查询英语语料中的词语用法与真实例句。",
+    "en": "Explore word usage and real examples in English corpora."
+  },
+  "4c92d3bb39a6": {
+    "zh": "对照查询英式与美式英语的拼写差异。",
+    "en": "Compare spelling differences between British and American English."
+  },
+  "84460b50f837": {
+    "zh": "学习如何清晰、有效地撰写英文科研文章。",
+    "en": "Learn to communicate scientific ideas clearly in written English."
+  },
+  "b81168465e3f": {
+    "zh": "了解灵格斯、MDict 等可扩充词库的词典软件。",
+    "en": "An introduction to dictionary apps with expandable dictionaries, including Lingoes and MDict."
+  },
+  "cce777ce7647": {
+    "zh": "阅读 MIT 线性代数课程的中文学习笔记。",
+    "en": "Chinese study notes for MIT's linear algebra course."
+  },
+  "0def8bd805cd": {
+    "zh": "通过 Nim 等组合游戏学习博弈分析方法。",
+    "en": "Learn combinatorial game analysis through Nim and other examples."
+  },
+  "0b90f32f4f7f": {
+    "zh": "在线计算函数的积分并查看数学结果。",
+    "en": "Calculate integrals online and view the mathematical results."
+  },
+  "2c72403348c4": {
+    "zh": "输入函数和积分上下限，计算定积分。",
+    "en": "Calculate definite integrals from a function and integration bounds."
+  },
+  "d8cdcd9464d2": {
+    "zh": "输入泊松分布参数，计算事件发生的概率。",
+    "en": "Calculate event probabilities from Poisson distribution parameters."
+  },
+  "40589ccbe87b": {
+    "zh": "在线计算泊松分布的概率。",
+    "en": "An online calculator for Poisson probabilities."
+  },
+  "b1dc9d68cdc7": {
+    "zh": "输入上联，让 AI 自动生成对应的下联。",
+    "en": "Enter the first line of a Chinese couplet and let AI suggest the second."
+  },
+  "b8d796158e7e": {
+    "zh": "检索中文科幻作品及相关出版信息。",
+    "en": "Look up Chinese science-fiction works and publication information."
+  },
+  "9dd03032adf2": {
+    "zh": "检索和下载整理好的中国古典诗词数据。",
+    "en": "Search and download structured collections of classical Chinese poetry."
+  },
+  "750ee15199c7": {
+    "zh": "阅读阮一峰整理的科技资讯、工具与有趣项目。",
+    "en": "Read technology news, tools and interesting projects curated by Ruanyifeng."
+  },
+  "af6e02cb0d4e": {
+    "zh": "查找国家图书馆整理的中国古籍数字资源。",
+    "en": "Find digitized Chinese rare-book resources collected by the National Library of China."
+  },
+  "0a9c5e6986d8": {
+    "zh": "查找可免费阅读或下载的电子书资源。",
+    "en": "Find ebook resources available to read or download for free."
+  },
+  "469b1e8ceab9": {
+    "zh": "速查 LaTeX 二元关系符号及其命令。",
+    "en": "Look up LaTeX binary relation symbols and their commands."
+  },
+  "5a8fc3e30d8c": {
+    "zh": "按类别查阅 LaTeX 数学符号及对应命令。",
+    "en": "Browse LaTeX mathematical symbols and commands by category."
+  },
+  "c01bf77dc445": {
+    "zh": "对照查询特殊符号的 LaTeX 写法与 HTML 编码。",
+    "en": "Look up LaTeX commands and HTML codes for special symbols."
+  },
+  "950322d7c34d": {
+    "zh": "学习在 LaTeX 中输入特殊字符与转义符号。",
+    "en": "Learn how to enter special characters and escaped symbols in LaTeX."
+  },
+  "48f05d409d13": {
+    "zh": "参考中文技术文档的结构、标点与排版规范。",
+    "en": "A style guide for structuring, punctuating and formatting Chinese technical documents."
+  },
+  "77ba13721969": {
+    "zh": "浏览潘志伟整理的个人桌游收藏与介绍。",
+    "en": "Browse Zhiwei Pan's board game collection and introductions."
+  },
+  "7bd1a3b3be66": {
+    "zh": "《殖民火星》桌游的网页版入口，附卡牌资料查询。",
+    "en": "A web edition of Terraforming Mars with card reference material."
+  },
+  "4304fb6fe330": {
+    "zh": "了解桌游中常见的玩法机制与设计思路。",
+    "en": "Learn about common board game mechanisms and design ideas."
+  },
+  "5848ead010c5": {
+    "zh": "介绍用于改善 Steam 社区访问的工具，当前链接为已停更的旧版页面。",
+    "en": "A Steam Community connectivity tool; this link points to its discontinued legacy version."
+  },
+  "4837c21daa49": {
+    "zh": "在浏览器中游玩经典街机与主机游戏。",
+    "en": "Play classic arcade and console games in a browser."
+  },
+  "1cad717418dc": {
+    "zh": "通过云端运行游戏，减少本地设备的性能负担。",
+    "en": "Stream games from the cloud to reduce local hardware requirements."
+  },
+  "ef8af8e842bf": {
+    "zh": "按游戏分区浏览不同平台的直播入口。",
+    "en": "Browse game livestream links across platforms by game category."
+  },
+  "2d20259ef3d6": {
+    "zh": "选择天赋与属性，体验随机生成的人生故事。",
+    "en": "Choose talents and attributes to experience a randomly generated life story."
+  },
+  "a84dd8801ecf": {
+    "zh": "通过在线打字竞赛练习键盘输入速度与准确率。",
+    "en": "Practice typing speed and accuracy through online races."
+  },
+  "0986d09f32bd": {
+    "zh": "在线下国际象棋，并通过棋题与课程练习棋艺。",
+    "en": "Play chess online and improve through puzzles and lessons."
+  },
+  "91e30fcf28db": {
+    "zh": "收听岳云鹏与孙越的相声节目合集。",
+    "en": "Listen to a collection of comedy performances by Yue Yunpeng and Sun Yue."
+  },
+  "071149a072ac": {
+    "zh": "查找阮一峰周刊汇总的免费音乐资源。",
+    "en": "Find free music resources collected by Ruanyifeng's weekly newsletter."
+  },
+  "52193e6ea7c5": {
+    "zh": "查找阮一峰周刊汇总的免费图片素材网站。",
+    "en": "Find free stock-photo sites collected by Ruanyifeng's weekly newsletter."
+  },
+  "37ad491dbdde": {
+    "zh": "调整颜色与图案参数，生成可导出的 SVG 平铺背景。",
+    "en": "Customize colors and pattern settings to generate exportable repeating SVG backgrounds."
+  },
+  "37a9b11f1322": {
+    "zh": "使用 AI 生成并逐步挑选动漫风格头像。",
+    "en": "Generate anime-style portraits with AI and refine them through selections."
+  },
+  "0f8a4e34e575": {
+    "zh": "查看北京大学科维理天体物理研究所的科研、人员与学术活动信息。",
+    "en": "Explore research, people and academic events at Peking University's KIAA."
+  },
+  "fb7f9c61ac37": {
+    "zh": "查询北京大学课程安排，链接保留的是原清单中的历史学期。",
+    "en": "Look up Peking University courses using the historical-term link in the original collection."
+  },
+  "09b64f4dfcb2": {
+    "zh": "查找北京大学的课程教学媒体资源。",
+    "en": "Find teaching media resources from Peking University."
+  },
+  "4bad1e2a5e4e": {
+    "zh": "处理 PDF 文件的复制、打印等权限限制。",
+    "en": "A tool for removing copying, printing and similar PDF permission restrictions."
+  },
+  "9bcfaf58af6a": {
+    "zh": "通过用户脚本增强哔哩哔哩的界面与浏览体验。",
+    "en": "A userscript that enhances Bilibili's interface and browsing experience."
+  },
+  "cf45e4630dd4": {
+    "zh": "查询城市地铁线路、车站与换乘路线。",
+    "en": "Look up city metro lines, stations and transfer routes."
+  },
+  "5e81d2c7117a": {
+    "zh": "按学校与国家查询世界大学排名。",
+    "en": "Look up world university rankings by institution and country."
+  },
+  "0577ec89c0c7": {
+    "zh": "输入自定义内容，生成朋友圈样式的截图。",
+    "en": "Generate WeChat Moments-style screenshots from custom content."
+  },
+  "e75c721a808e": {
+    "zh": "查询 IP 地址的归属地与网络信息。",
+    "en": "Look up an IP address's location and network information."
+  },
+  "3fb80581ef3d": {
+    "zh": "将文字转换为支持多种语言的合成语音。",
+    "en": "Convert text into synthesized speech in multiple languages."
+  },
+  "1b2a9f0609c9": {
+    "zh": "输入文字，生成夸张立体风格的艺术字图片。",
+    "en": "Turn text into bold, dimensional display-lettering images."
+  },
+  "fb5ef33f0a80": {
+    "zh": "按色彩关系生成和调整配色方案。",
+    "en": "Generate and adjust color palettes using color-harmony rules."
+  },
+  "3b3f011397e0": {
+    "zh": "查找学生整理的北京大学课程资料。",
+    "en": "Find student-collected resources for Peking University courses."
+  },
+  "3c6d283fd01e": {
+    "zh": "查找浙江大学课程的学习资料与选课经验。",
+    "en": "Find study materials and course-selection advice for Zhejiang University."
+  },
+  "f632192cf351": {
+    "zh": "浏览学生共享的上海交通大学课程资料。",
+    "en": "Browse student-shared course materials from Shanghai Jiao Tong University."
+  },
+  "e97ce75c9376": {
+    "zh": "查找中国科学技术大学的共享课程资源。",
+    "en": "Find shared course resources from the University of Science and Technology of China."
+  },
+  "e8e007a516f7": {
+    "zh": "浏览学生整理的西安交通大学课程资料。",
+    "en": "Browse student-collected course resources from Xi'an Jiaotong University."
+  },
+  "05070bbea5ac": {
+    "zh": "查找阮一峰周刊汇总的免费软件资源。",
+    "en": "Find free software resources collected by Ruanyifeng's weekly newsletter."
+  },
+  "ab185b9dedc9": {
+    "zh": "查阅和下载自然资源部门提供的标准地图。",
+    "en": "Browse and download standard maps provided by China's natural resources authorities."
+  },
+  "65738702dcd8": {
+    "zh": "阅读围绕杭州购房整理的知识与经验资料。",
+    "en": "A collection of knowledge and experiences about buying a home in Hangzhou."
+  },
+  "49788d92ae9a": {
+    "zh": "通过教程学习围棋规则与基础技巧。",
+    "en": "Learn Go rules and basic techniques through tutorials."
+  },
+  "618507eb0f4d": {
+    "zh": "原用于查询各地防疫政策的历史入口。",
+    "en": "A historical entry point originally used to look up regional pandemic policies."
+  },
+  "58111103e92e": {
+    "zh": "速查常用物理常数与天文学数据。",
+    "en": "A quick reference for common physical constants and astronomical data."
+  },
+  "61fed140e1f5": {
+    "zh": "浏览粒子物理标准模型的介绍与参考资料。",
+    "en": "Explore introductory and reference material about the Standard Model of particle physics."
+  }
+}

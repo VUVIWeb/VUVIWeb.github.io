@@ -40,7 +40,7 @@ function distance(a,b){
  }
  return prev[b.length];
 }
-const indexes=new Map(resources.map(r=>[r.id,{title:normalize([...r.aliases,r.english.name].join(' ')),text:normalize([r.name,r.english.name,r.english.description,...r.aliases,...Object.values(r.descriptions),r.category,catMap[r.category].name,catMap[r.category].english,r.subcategory,...r.tags,...r.sources.flatMap(s=>s.path),r.url].join(' ')),words:normalize([...r.aliases,r.english.name].join(' ')).split(' ')}]));
+const indexes=new Map(resources.map(r=>[r.id,{title:normalize([...r.aliases,r.english.name].join(' ')),text:normalize([r.name,r.description,r.english.name,r.english.description,...r.aliases,...Object.values(r.descriptions),r.category,catMap[r.category].name,catMap[r.category].english,r.subcategory,...r.tags,...r.sources.flatMap(s=>s.path),r.url].join(' ')),words:normalize([...r.aliases,r.english.name].join(' ')).split(' ')}]));
 function contains(text,token){return /^[a-z0-9]{1,3}$/.test(token)?new RegExp('\\b'+token+'\\b').test(text):text.includes(token);}
 function searchScore(r,query){
  if(!query.trim())return 1;
