@@ -110,6 +110,7 @@
     * [收集了SED/光谱拟合各种相关链接的网站](http://www.sedfitting.org/Welcome.html)
 
   * ### 在线工具
+    * [MingyuLi 天文工具](https://lmytime.com/software): MingyuLi 开发的神级天文工具。
     * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
     * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
     * [SciServer](https://www.sciserver.org/about/)：是上面那个casjob的主页，还支持在线计算，分享文件等功能。[(pdf)](https://ui.adsabs.harvard.edu/abs/2020A%26C....3300412T/abstract)

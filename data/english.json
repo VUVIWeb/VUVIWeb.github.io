@@ -814,5 +814,9 @@
   },
   "8aa8e7bf7f73": {
     "description": "Discover connections between papers and find relevant prior and derivative research."
+  },
+  "ee8d5464f7ce": {
+    "name": "MingyuLi Astronomy Tools",
+    "description": "Outstanding astronomy tools developed by MingyuLi."
   }
 }
