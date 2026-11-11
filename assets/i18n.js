@@ -32,8 +32,8 @@ const en={
  '相关链接':'Related links','收录名称':'Original names','中文原始收录':'Chinese source','原始收录出处':'Original sources','查看原始说明':'Read original descriptions','中文原文':'Chinese original','英文原文':'English original','未提供介绍':'No description in the original list. Visit the resource to learn more.','访问网站 ↗':'Visit website ↗','♥ 已收藏':'♥ Saved','♡ 加入收藏':'♡ Save',
  '数据与工具':'Data & tools','资讯与参考':'News & references','天文课程':'Astronomy courses','望远镜与巡天':'Telescopes & surveys','文献与阅读':'Papers & reading','学者主页':'Academic homepages','社群与校园':'Community & campus','地图与探索':'Maps & exploration','视觉创作':'Visual creation','配色与素材':'Colors & assets','计算与可视化':'Calculators & visualization','语言与写作':'Languages & writing','Python 与科学计算':'Python & scientific computing','开发与教程':'Development & tutorials','LaTeX 与文档':'LaTeX & documents','书籍与人文':'Books & humanities','办公与演示':'Office & presentations','桌游与游戏':'Board & video games','音乐与影像':'Music & video','图像与素材':'Images & assets','课程与学科':'Courses & subjects','生活与指南':'Life & guides','教程与指南':'Tutorials & guides','工具箱':'Toolboxes','日常工具':'Everyday tools','写作与图像':'Writing & images','科研助手':'Research assistants'
 };
-let language='zh';
-try{language=localStorage.getItem('vuvi-language')==='en'?'en':'zh';}catch{}
+let language='en';
+try{const saved=localStorage.getItem('vuvi-language');if(saved==='en'||saved==='zh')language=saved;}catch{}
 const requested=new URLSearchParams(location.hash.slice(1)).get('lang');
 if(requested==='en'||requested==='zh')language=requested;
 const staticText=[], staticAttributes=[];
