@@ -417,6 +417,7 @@
   * [国际象棋](https://www.chess.com/)
    
 * ## 影音
+  * [Every Noise at Once](https://everynoise.com/): 在音乐流派地图中搜索与探索不同风格，了解它们之间的相似关系。
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
   * [岳云鹏孙越爆笑相声合辑](https://www.ximalaya.com/xiangsheng/11219907/)
   * [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
@@ -552,7 +553,7 @@
 
 感谢LKs,余捻坤,徐福祥，傅煜铭，林小靖分享的大量网站！
 
-感谢庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，Jason，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是，费勤月，wenliabc2007的分享！
+感谢庄明阳，王彧辰，张路路，刘语晨，黄崧，李立新，吕澈秋，尹高成，Jason，张子键，黄齐丰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是，费勤月，wenliabc2007，mshepcode的分享！
 
 感谢以上所有网站的作者！
 
