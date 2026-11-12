@@ -39,6 +39,8 @@ def parse(lang):
 
 def classify(r):
  n=r['name'].lower(); u=r['url'].lower(); p=' / '.join(r['path']); t=n+' '+u+' '+r['description'].lower()
+ # This map describes musical genres, not geographical locations.
+ if urlsplit(u).hostname in ('everynoise.com','www.everynoise.com'): return 'play','音乐与影像'
  if any(x in t for x in ['chatgpt','魔咒','tags wiki','国台天文大模型','秘塔写作猫','微软爱写作','ai对对联','彩云小梦','ai生成动漫','upscayl']): return 'ai','写作与图像' if '天文' not in n else '科研助手'
  if any(x in n for x in ['ads','scix','arxiv','alphaxiv','soaxiv','benty','giiisp','connectedpapers','zotero','文献','电子书','library genesis','springer','scihub','oalib','鸠摩','zlibrary','影响因子','academic accelerator','联图云','全国图书馆']): return 'research','文献与阅读'
  if any(x in p for x in ['天文学者','Homepages','学校','北京大学']): return 'community','学者主页' if '主页' in p or 'Homepages' in p else '社群与校园'

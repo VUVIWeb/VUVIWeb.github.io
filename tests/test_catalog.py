@@ -18,6 +18,9 @@ class CatalogTest(unittest.TestCase):
   ids={c['id'] for c in self.data['categories']}
   for r in self.data['resources']:
    self.assertIn(r['category'],ids); self.assertTrue(r['sources']); self.assertTrue(r['name'])
+ def test_music_genre_map_is_not_geographical(self):
+  r=next(r for r in self.data['resources'] if r['name']=='Every Noise at Once')
+  self.assertEqual((r['category'],r['subcategory']),('play','音乐与影像'))
  def test_bilingual_merge(self):
   r=next(r for r in self.data['resources'] if r['name']=='ADS')
   self.assertEqual(set(r['descriptions']),{'zh','en'})
